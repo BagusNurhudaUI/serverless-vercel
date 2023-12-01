@@ -10,6 +10,7 @@ app.get("/", async (req, res) => {
   try {
     res.status(200).send({
       message: "Welcome to my API server!",
+      version: "v.1.0",
     });
   } catch (error) {
     console.log(error);
@@ -94,5 +95,5 @@ const PORT = process.env.PORT || 8080;
 const HOST = "0.0.0.0";
 
 app.listen(PORT, HOST, () => {
-  console.log(`Application is running on http://${HOST}:${PORT} , V1`);
+  console.log(`Application is running on http://${HOST}:${PORT}`);
 });
