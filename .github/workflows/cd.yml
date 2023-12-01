@@ -26,27 +26,9 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            cd ~/app/simpleapp
-
-            # Check if the directory is a Git repository before running Git commands
-            if [ -d ".git" ]; then
-              git pull origin main
-              git status
-            else
-              echo "Error: Not a Git repository. Initializing a new Git repository."
-              git init
-              git remote add origin <https://github.com/BagusNurhudaUI/serverless-vercel.git>
-              git fetch origin main
-              git checkout -b main --track origin/main
-            fi
-
-            # Install Node.js and npm (if not already installed)
-            if ! command -v npm &> /dev/null; then
-              echo "Error: npm not found. Installing Node.js and npm."
-              sudo apt-get update
-              sudo apt-get install -y nodejs npm
-            fi
+            cd ~/app/simpleapp/serverless-vercel
 
             git pull origin main
             git status
             npm install
+            node index.js
