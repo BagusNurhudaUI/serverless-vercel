@@ -31,3 +31,6 @@ jobs:
             git pull origin main
             git status
             npm install
+
+            pm2 reload index
+            pm2 restart index
