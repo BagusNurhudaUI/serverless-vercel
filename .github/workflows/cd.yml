@@ -31,4 +31,3 @@ jobs:
             git pull origin main
             git status
             npm install
-            node index.js

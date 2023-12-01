@@ -91,6 +91,6 @@ function generateToken(id, email, role, name) {
 
 const PORT = process.env.PORT || 8000;
 
-app.listen(PORT, () => {
-  console.log(`Application is running on ${PORT}!! `);
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Application is running on http://0.0.0.0:${PORT}`);
 });
