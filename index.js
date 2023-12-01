@@ -5,32 +5,6 @@ require("dotenv").config();
 const fs = require("fs");
 const crypto = require("crypto");
 const PDFDocument = require("pdfkit");
-// Generate a random code of specified length
-function generateRandomCode(length) {
-  const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-  let code = "";
-
-  for (let i = 0; i < length; i++) {
-    const randomIndex = crypto.randomInt(0, characters.length);
-    code += characters[randomIndex];
-  }
-
-  return code;
-}
-
-// Generate a random latitude value within the vicinity of Jakarta
-function generateRandomLatitude() {
-  const minLatitude = -6.3; // Latitude of southernmost point in Jakarta
-  const maxLatitude = -5.8; // Latitude of northernmost point in Jakarta
-  return Math.random() * (maxLatitude - minLatitude) + minLatitude;
-}
-
-// Generate a random longitude value within the vicinity of Jakarta
-function generateRandomLongitude() {
-  const minLongitude = 106.6; // Longitude of westernmost point in Jakarta
-  const maxLongitude = 107.1; // Longitude of easternmost point in Jakarta
-  return Math.random() * (maxLongitude - minLongitude) + minLongitude;
-}
 
 app.get("/", async (req, res) => {
   try {
