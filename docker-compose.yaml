@@ -5,7 +5,6 @@ services:
     container_name: testapp
     restart: always
     ports:
-      # <Port exposed> : < MySQL Port running inside container>
       - '3000:3000'
     expose: 
       - '3000'

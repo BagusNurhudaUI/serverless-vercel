@@ -1,0 +1,126 @@
+
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'LNYAZT4HRF',
+'ATM BNI Royal Golf', 'Royal Golf', 'Indonesia', '2', -5.968281437167884, 106.79263114918511);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '3APXFTQSLZ',
+'ATM BNI Survana Golf', 'Survana Golf', 'Indonesia', '2', -5.813082850205254, 106.65186226996035);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'VKFHZNVZJY',
+'ATM BNI SPBU 603 Jatiwaringin', 'SPBU 603 Jatiwaringin', 'Indonesia', '2', -5.831090016516782, 106.90754467657176);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'RECCJTAN82',
+'ATM BNI KL Medikasih', 'KL Medikasih', 'Indonesia', '2', -6.088636028456188, 106.64768841927169);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'KNPC15D2PQ',
+'ATM BNI Alfamart MALAKA Sari', 'Alfamart MALAKA Sari', 'Indonesia', '2', -5.95312363073051, 107.05902200112311);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'TC6JF5STIJ',
+'ATM BNI SPBU H Naman', 'SPBU H Naman', 'Indonesia', '2', -5.818742521065728, 106.72026012710815);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'BYADKXWIYF',
+'ATM BNI SDIT Halimiyah', 'SDIT Halimiyah', 'Indonesia', '2', -5.882450502031219, 106.77247168349234);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '2JDYQ7FFIG',
+'ATM BNI SPBU 421 PD Kopi', 'SPBU 421 PD Kopi', 'Indonesia', '2', -5.903812260700234, 106.97988628821685);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'X3ZJPSBPGF',
+'ATM BNI Kl Mitra Waras', 'Kl Mitra Waras', 'Indonesia', '2', -6.011226605923496, 106.68584311480254);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'RF75WWQ8LQ',
+'ATM BNI Indomaret Hybrid P Gebang', 'Indomaret Hybrid P Gebang', 'Indonesia', '2', -5.9777098706999645,
+107.04018289066977);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'TY7BON7503',
+'ATM BNI Grand Cakung', 'Grand Cakung', 'Indonesia', '2', -6.1062773851095855, 106.74381020046224);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'F4JMPRRCMC',
+'ATM BNI SPBU 908 Cakung', 'SPBU 908 Cakung', 'Indonesia', '2', -6.076235083089303, 106.6171628119366);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'KZQWN3RCQE',
+'ATM BNI Alfamart Metland', 'Alfamart Metland', 'Indonesia', '2', -5.9002791694038175, 106.61050506555581);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '2P3ITDEQ5B',
+'ATM BNI Aeon Mall', 'Aeon Mall', 'Indonesia', '2', -6.222660772148689, 106.82558232059826);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'ADZ6DOOLSK',
+'ATM BNI Alfamart Rawa Bebek', 'Alfamart Rawa Bebek', 'Indonesia', '2', -5.992624104785002, 106.88007831458832);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'SS9FMMZSRN',
+'ATM BNI SPBU klender', 'SPBU klender', 'Indonesia', '2', -5.8365649463479885, 106.86667248705807);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'ZDVXQFYTQV',
+'ATM BNI Alfamart Bekasi Timur 2', 'Alfamart Bekasi Timur 2', 'Indonesia', '2', -6.133239663232467, 106.95689678306842);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'VY82GIO4ZY',
+'ATM BNI Alfamart Bekasi Raya', 'Alfamart Bekasi Raya', 'Indonesia', '2', -5.8197271652900096, 106.89768972732526);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'UOKRWEPOQV',
+'ATM BNI Apotik K24', 'Apotik K24', 'Indonesia', '2', -5.9199650952773855, 106.87871166642057);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'RD2TMZCSBB',
+'ATM BNI Alfamart Pisangan', 'Alfamart Pisangan', 'Indonesia', '2', -6.220434213101224, 106.882278848471);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'EINAXGYEKQ',
+'ATM BNI Kandatel', 'Kandatel', 'Indonesia', '2', -5.826478690492482, 106.74679277918175);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'XU1EWP2WNZ',
+'ATM BNI Mall Basura', 'Mall Basura', 'Indonesia', '2', -5.995328942816068, 107.0017514654911);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '8S831OZU5O',
+'ATM BNI SPBU Basuki Rahmat', 'SPBU Basuki Rahmat', 'Indonesia', '2', -6.155600707319264, 106.8285340990336);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '1DNMZXO7UQ',
+'ATM BNI RS Bunda Aliyah', 'RS Bunda Aliyah', 'Indonesia', '2', -5.913472105693083, 106.91147367870808);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '0UPP1WQJRP',
+'ATM BNI Alfamart Pondok Bambu', 'Alfamart Pondok Bambu', 'Indonesia', '2', -6.242928476339296, 106.60255462598542);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'S66MWNTQOA',
+'ATM BNI Alfamart Duren Sawit', 'Alfamart Duren Sawit', 'Indonesia', '2', -5.982454422374609, 107.05078249394204);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '5SV1AQOOUU',
+'ATM BNI Buaraaan Plaza', 'Buaraaan Plaza', 'Indonesia', '2', -6.074561273118516, 106.86621258955587);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'RI8FX5JEOU',
+'ATM BNI Indomaret IG Ngurah Rai', 'Indomaret IG Ngurah Rai', 'Indonesia', '2', -6.088343990338146, 106.68536492652606);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'Y1SYSTGA7P',
+'ATM BNI AlFAMIDI Dermaga', 'AlFAMIDI Dermaga', 'Indonesia', '2', -6.19480802738283, 106.64443210568619);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'XNHJ3EQORA',
+'ATM BNI Apotik Puspita', 'Apotik Puspita', 'Indonesia', '2', -5.882727374799423, 106.66193768155675);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'LB9JCTWYJY',
+'ATM BNI Apotik Taman Solo', 'Apotik Taman Solo', 'Indonesia', '2', -6.1794120569515485, 106.85984529568958);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'QY4PMNHAFN',
+'ATM BNI Boss Food Kelapa Gading', 'Boss Food Kelapa Gading', 'Indonesia', '2', -5.846009938982946, 106.9887307444789);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '3A5QRA9D4S',
+'ATM BNI Rs Mediros', 'Rs Mediros', 'Indonesia', '2', -5.851192185269117, 106.84678199635181);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'ZKN7UJR1AV',
+'ATM BNI Alfamart Kayu Mas Raya', 'Alfamart Kayu Mas Raya', 'Indonesia', '2', -6.179275581246658, 106.79544328179168);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '9W1O8ZSLYO',
+'ATM BNI Toserba berkah', 'Toserba berkah', 'Indonesia', '2', -5.892701522320614, 106.87711208012777);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'NA79RV408P',
+'ATM BNI GD Arion Pramitha', 'GD Arion Pramitha', 'Indonesia', '2', -5.949466161134305, 106.88668199022597);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'UDO2430MB4',
+'ATM BNI Kimia Farma Rawamangun', 'Kimia Farma Rawamangun', 'Indonesia', '2', -5.993811193696067, 106.69120393560574);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'LM13MYR0JR',
+'ATM BNI Arion Mall', 'Arion Mall', 'Indonesia', '2', -6.061767101576426, 106.67962539781819);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'PLP3CZ2HLB',
+'ATM BNI Arion Hotel', 'Arion Hotel', 'Indonesia', '2', -6.199468458659643, 107.08627709673492);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '3AXQ0T5MKL',
+'ATM BNI Tip Top Balai Pustaka', 'Tip Top Balai Pustaka', 'Indonesia', '2', -6.1225736279652345, 106.6072313327377);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'THEO3L7DAK',
+'ATM BNI Ap Rini', 'Ap Rini', 'Indonesia', '2', -5.889726177179529, 106.75269503732528);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'C5STHR2VPD',
+'ATM BNI Rs Persahabtan', 'Rs Persahabtan', 'Indonesia', '2', -6.16379213034875, 106.92813117736421);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'G5G5ZA2J5X',
+'ATM BNI Alfamart Gading Raya', 'Alfamart Gading Raya', 'Indonesia', '2', -5.916567482723481, 106.680138520649);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '8Y9FQ51DAU',
+'ATM BNI LABSCHOOL', 'LABSCHOOL', 'Indonesia', '2', -6.002122899276672, 106.78339514275531);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '9UJW6XLMAL',
+'ATM BNI Pusat Bahasa UNJ', 'Pusat Bahasa UNJ', 'Indonesia', '2', -6.060362282432627, 106.96151722779041);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'HFU9ZZFSIQ',
+'ATM BNI Golf Rawamangun', 'Golf Rawamangun', 'Indonesia', '2', -5.879479570290376, 106.87860807649561);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'QJOJTBT1AB',
+'ATM BNI Kampus UIJ Utan Kayu', 'Kampus UIJ Utan Kayu', 'Indonesia', '2', -6.126059460431383, 106.64586486537388);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '6HGL0J0J31',
+'ATM BNI KLinik Zafira Medika', 'KLinik Zafira Medika', 'Indonesia', '2', -6.203246253731857, 107.0559938198747);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '1ABZL0VS76',
+'ATM BNI AlFAMIDI KB Kelapa', 'AlFAMIDI KB Kelapa', 'Indonesia', '2', -5.952579521512258, 106.99809343668079);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'UTUNR72JYO',
+'ATM BNI Indomaret Layur', 'Indomaret Layur', 'Indonesia', '2', -6.084345800906546, 106.91787550623276);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'GQY68OB0I1',
+'ATM BNI Rs Antam', 'Rs Antam', 'Indonesia', '2', -6.152573899594378, 106.84745885074061);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'CW2COP9IDG',
+'ATM BNI PTC Pulo Gadung', 'PTC Pulo Gadung', 'Indonesia', '2', -6.279753777482817, 106.66334932625777);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'A0NRY9XS36',
+'ATM BNI Apartment East Park', 'Apartment East Park', 'Indonesia', '2', -5.991246288793967, 106.76198277021304);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'EULN4EXJB9',
+'ATM BNI SPBU Radjiman', 'SPBU Radjiman', 'Indonesia', '2', -6.2701616904376305, 106.7961183086388);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '15L8EB9WW8',
+'ATM BNI PIK Cakung', 'PIK Cakung', 'Indonesia', '2', -6.217584880927233, 106.82663481401339);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'I8N0Z12XME',
+'ATM BNI Grutty Shoes', 'Grutty Shoes', 'Indonesia', '2', -6.088053262339142, 106.68760244872884);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '5S8FXM2LQM',
+'ATM BNI DITPALAD Cakung', 'DITPALAD Cakung', 'Indonesia', '2', -6.268694012531143, 106.61135207551352);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'KQSXJEAV85',
+'ATM BNI Rs Resti Mulya', 'Rs Resti Mulya', 'Indonesia', '2', -5.886787416053803, 106.70872554079638);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'NFENW5PNWY',
+'ATM BNI Indomaret Komarudin', 'Indomaret Komarudin', 'Indonesia', '2', -6.026161455722247, 107.04510861311148);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', 'OTBOMN42VI',
+'ATM BNI Alfamart JL Balai Rakyat', 'Alfamart JL Balai Rakyat', 'Indonesia', '2', -5.98606884418618,
+106.75660125469818);
+INSERT INTO asset (id_pelanggan, kode, name, lokasi, alamat, ring, latitude, longitude) VALUES ('11', '11G5Z67X5E',
+'ATM BNI Alfamart Cakung Residences', 'Alfamart Cakung Residences', 'Indonesia', '2', -6.220157799390877,
+106.9254143517293);

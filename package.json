@@ -3,18 +3,25 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
   "engines": {
     "node": "16.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "axios": "^1.4.0",
+    "crypto": "^1.0.1",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "faker": "^6.6.6",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.1",
+    "pdfkit": "^0.13.0",
+    "simple-encryptor": "^4.0.0"
   }
 }
