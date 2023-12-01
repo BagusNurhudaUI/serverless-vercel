@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Debug Secrets
+        run: |
+          echo "VPS_HOST: ${{ secrets.SSH_HOST }}"
+          echo "VPS_USERNAME: ${{ secrets.SSH_USERNAME }}"
+
       - name: Checkout code
         uses: actions/checkout@v2
 
