@@ -10,7 +10,7 @@ app.get("/", async (req, res) => {
   try {
     res.status(200).send({
       message: "Welcome to my API server!",
-      version: "v.1.6",
+      version: "v.1.7",
     });
   } catch (error) {
     console.log(error);
